@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Debian) (preloaded format=pdflatex 2015.3.4)  4 MAR 2015 21:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Debian) (preloaded format=pdflatex 2015.3.4)  5 MAR 2015 07:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**document.tex
-(./document.tex
+**perfil.tex
+(./perfil.tex
 LaTeX2e <2014/05/01>
 Babel <3.9k> and hyphenation patterns for 7 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrartcl.cls
@@ -455,11 +455,11 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 10.
 
-(./document.aux
+(./perfil.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
-\openout1 = `document.aux'.
+\openout1 = `perfil.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
@@ -517,9 +517,9 @@ LaTeX Info: Redefining \ref on input line 13.
 LaTeX Info: Redefining \pageref on input line 13.
 LaTeX Info: Redefining \nameref on input line 13.
 
-(./document.out) (./document.out)
+(./perfil.out) (./perfil.out)
 \@outlinefile=\write3
-\openout3 = `document.out'.
+\openout3 = `perfil.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <17.28> on input line 19.
@@ -554,7 +554,7 @@ Package babel Info: Redefining spanish shorthand "?
 
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./document.toc
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./perfil.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -563,7 +563,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 6.
 )
 \tf@toc=\write4
-\openout4 = `document.toc'.
+\openout4 = `perfil.toc'.
 
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 21.
@@ -780,24 +780,24 @@ Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 81.
  [6]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 81.
- (./document.aux
+ (./perfil.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 81.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 81.
-Package rerunfilecheck Info: File `document.out' has not changed.
+Package rerunfilecheck Info: File `perfil.out' has not changed.
 (rerunfilecheck)             Checksum: 3DB7ABE5DFDDD33DEF7C885DA263B86B;395.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 81.
  ) 
 Here is how much of TeX's memory you used:
- 7135 strings out of 494918
- 106532 string characters out of 6178392
+ 7136 strings out of 494918
+ 106504 string characters out of 6178392
  238003 words of memory out of 5000000
  10307 multiletter control sequences out of 15000+600000
  9120 words of font info for 32 fonts, out of 8000000 for 9000
  62 hyphenation exceptions out of 8191
- 36i,8n,44p,825b,427s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,8n,44p,823b,427s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive
@@ -805,7 +805,7 @@ texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive
 ist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmti12.pfb>
-Output written on document.pdf (6 pages, 93087 bytes).
+Output written on perfil.pdf (6 pages, 93087 bytes).
 PDF statistics:
  118 PDF objects out of 1000 (max. 8388607)
  101 compressed objects within 2 object streams
